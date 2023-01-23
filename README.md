@@ -154,6 +154,13 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Natnael Endale(natnaelendle51@gmail.com)  
-Kalkidan Betre(kalbetre@icloud.com)
+Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
+Second part of Airbnb: Joann Vuong
+  Third part of Airbnb:
+       - Natnael Endale - [Github](https://github.com/natani51) /(natnaelendle51@gmail.com)  
+       - Kalkidan Betre - [Github](https://github.com/kalibetre) /(kalbetre@icloud.com)
+  
+## License
+Public Domain. No copy write protection. 
